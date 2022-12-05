@@ -1,0 +1,15 @@
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\bin\Debug\net7.0\PessoaJudicial4.exe
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\bin\Debug\net7.0\PessoaJudicial4.deps.json
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\bin\Debug\net7.0\PessoaJudicial4.runtimeconfig.json
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\bin\Debug\net7.0\PessoaJudicial4.dll
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\bin\Debug\net7.0\PessoaJudicial4.pdb
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\PessoaJudicial4.csproj.AssemblyReference.cache
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\PessoaJudicial4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\PessoaJudicial4.AssemblyInfoInputs.cache
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\PessoaJudicial4.AssemblyInfo.cs
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\PessoaJudicial4.csproj.CoreCompileInputs.cache
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\PessoaJudicial4.dll
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\refint\PessoaJudicial4.dll
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\PessoaJudicial4.pdb
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\PessoaJudicial4.genruntimeconfig.cache
+C:\Users\caiop\Documents\ProjetosDotNet\PessoaJudicial4\obj\Debug\net7.0\ref\PessoaJudicial4.dll
